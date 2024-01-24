@@ -1,5 +1,5 @@
 <template>
-  <input type="text" class="rounded border-gray-400">
+  <input type="text" class="rounded border-gray-400 w-full">
 </template>
 
 <script setup>
