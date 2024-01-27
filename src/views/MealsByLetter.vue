@@ -1,5 +1,7 @@
 <template>
-  <router-view />
+  <div>
+  mylist letter
+  </div>
 </template>
 
 <script setup>

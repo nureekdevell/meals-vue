@@ -1,5 +1,7 @@
 <template>
-  <router-view />
+  <div>
+  mylist ingredients
+  </div>
 </template>
 
 <script setup>
